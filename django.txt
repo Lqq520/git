@@ -38,3 +38,7 @@ views.py: 写处理业务逻辑的地方
 python manage.py makemigrations
 python manage.py migrate
 
+
+
+14.设置用户名密码
+
